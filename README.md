@@ -1,2 +1,2 @@
 # VIPToken-files
-VIPtoken TokenScript files
+VIPToken TokenScript files
